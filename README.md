@@ -2,7 +2,7 @@
 **By MineCorp**
 * * *
 This site was started by Joey to create an interconnected version of MineWeb, by making one that spanned across school and home devices. The first idea that came to mind? GitHub.
-To become a Developer, you can [fill out an application]() including:
+To become a Developer, you can [fill out an application](https://jojomoore2007.github.io/linkerror.md) including:
 >* Your *full name*
 >* The email associated with your *GitHub Account*
 >* Programming skills in **MarkDown** *MD* or **HyperText Markup Language** *HTML*
