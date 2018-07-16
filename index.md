@@ -1,4 +1,4 @@
-# Welcome to Mine<sup>Web</sup> Cross-Platform(GitHub) Edition!
+# Welcome to Mine<sup>Web<sup>GitHub</sup></sup> Edition!
 This page is currently under development by MineCorp. Check back soon to see if it gets updated.
 
 You also might want to add a bookmark for <a class="bookmark" href="https://jojomoore2007.github.io">MineWeb GitHub Edition</a> or for <a class="bookmark" href="mailto:jojo62815@gmail.com">Joey's Email</a> to see when the site opens or to report bugs.
