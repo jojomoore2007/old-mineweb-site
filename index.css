@@ -1,3 +1,6 @@
-a.bookmark:active {
-  content: 'Drag me to your bookmarks bar!';
+[bgcolor]:before {
+  background-color: attr(bgcolor);
+}
+[elementcolor]:before {
+  color: attr(elementcolor);
 }
