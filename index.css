@@ -1,10 +1,8 @@
 a {
   text-decoration: none;
-  font-weight: normal;
   color: #000fff;
 }
 a:hover {
   text-decoration: none;
-  font-weight: bold;
-  color: #00ffff;
+  color: #0000ff;
 }
