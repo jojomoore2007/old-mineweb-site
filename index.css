@@ -1,8 +1,4 @@
-a {
-  text-decoration: none;
-}
 a.bookmark:active {
   text-decoration: underline;
   content: 'Drag me to your bookmarks bar!';
 }
-@media
