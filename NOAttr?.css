@@ -1,0 +1,15 @@
+[bgcolor] {
+  background-color: attr(bgcolor);
+}
+[color] {
+  color: attr(elementcolor);
+}
+[border] {
+  border: attr(border);
+}
+[width] {
+  width: attr(width);
+}
+[height] {
+  height: attr(height);
+}

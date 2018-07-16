@@ -1,6 +1,0 @@
-[bgcolor]:before {
-  background-color: attr(bgcolor);
-}
-[elementcolor]:before {
-  color: attr(elementcolor);
-}
