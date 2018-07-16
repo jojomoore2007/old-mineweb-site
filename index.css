@@ -1,6 +1,6 @@
-span.bookmark#crossplatformbookmark:active {
+span#crossplatformbookmark.bookmark:active {
   content: '<a href="https://jojomoore2007.github.io/">Drag me to your bookmarks bar!</a>';
 }
-span.bookmark#emailbookmark:active {
+span#emailbookmark.bookmark:active {
   content: '<a href="mailto:jojo62815@gmail.com">Drag me to your bookmarks bar!</a>';
 }
