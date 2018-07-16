@@ -5,3 +5,4 @@ You also might want to add a bookmark for [MineWeb Cross-Platform Edition](https
 
 For now, click [here](https://jojo62815.wixsite.com/mineweb-beta) to go to MineWeb Home Edition.
 
+<link type="text/css" href="index.css"/>
