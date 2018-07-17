@@ -7,4 +7,4 @@ For now, click [here](https://jojo62815.wixsite.com/mineweb-beta) to go to MineW
 
 <link type="text/css" href="https://jojomoore2007.github.io/index.css" rel="stylesheet" />
 <div border="10px solid black" style="border-radius: 25; padding: 10px"><a href="https://github.com/jojomoore2007/jojomoore2007.github.io/projects/1" title="https://github.com/jojomoore2007/jojomoore2007.github.io/projects/1">View Issues</a></div>
-![Users](https://png.icons8.com/ultraviolet/50/000000/select-users.png) You can also sign up to become a developer to help add to well, nothing. But nonetheless, it helps.
+![Users](https://png.icons8.com/ultraviolet/50/000000/select-users.png) You can also [sign up]( to become a developer to help add to well, nothing. But nonetheless, it helps.
