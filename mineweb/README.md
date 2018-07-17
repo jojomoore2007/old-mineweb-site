@@ -9,4 +9,4 @@ To become a Developer, you can [fill out an application](https://goo.gl/forms/3m
 >* What your **School Email** *ID@lcps.org* is *(Optional, this is used to share a copy of the MineWeb Home Edition Google Slides webapp)*
 
 Thanks for reading! 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>This was originally made by Joey Moore and is still made by Joey at the time of writing *(**Sunday, July 15, 2018** at **5:50 PM**)* 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>This was originally made by Joey Moore and is still made by Joey at the time of writing *(**Sunday, July 15, 2018** at **5:50 PM**)* 
